@@ -1,0 +1,30 @@
+"2021-04-25 10:22:31 - Starting MovieCatalogeServiceApplication using Java 1.8.0_261 on LAPTOP-J685BBMS with PID 3504 (E:\IntelliJWorkspace\MicroservicesLearn\movie-cataloge-service\target\classes started by Achyut in E:\IntelliJWorkspace\MicroservicesLearn\movie-cataloge-service)
+""2021-04-25 10:22:31 - No active profile set, falling back to default profiles: default
+""2021-04-25 10:22:33 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+""2021-04-25 10:22:33 - Finished Spring Data repository scanning in 9 ms. Found 0 JPA repository interfaces.
+""2021-04-25 10:22:34 - Tomcat initialized with port(s): 8080 (http)
+""2021-04-25 10:22:34 - Starting service [Tomcat]
+""2021-04-25 10:22:34 - Starting Servlet engine: [Apache Tomcat/9.0.41]
+""2021-04-25 10:22:34 - Initializing Spring embedded WebApplicationContext
+""2021-04-25 10:22:34 - Root WebApplicationContext: initialization completed in 2774 ms
+""2021-04-25 10:22:34 - HHH000204: Processing PersistenceUnitInfo [name: default]
+""2021-04-25 10:22:34 - HHH000412: Hibernate ORM core version 5.4.27.Final
+""2021-04-25 10:22:35 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+""2021-04-25 10:22:35 - HikariPool-1 - Starting...
+""2021-04-25 10:22:35 - HikariPool-1 - Start completed.
+""2021-04-25 10:22:35 - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+""2021-04-25 10:22:35 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+""2021-04-25 10:22:35 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+""2021-04-25 10:22:36 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2021-04-25 10:22:36 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+""2021-04-25 10:22:36 - Initializing ExecutorService 'applicationTaskExecutor'
+""2021-04-25 10:22:37 - Tomcat started on port(s): 8080 (http) with context path ''
+""2021-04-25 10:22:37 - Context refreshed
+""2021-04-25 10:22:37 - Found 1 custom documentation plugin(s)
+""2021-04-25 10:22:37 - Scanning for api listing references
+""2021-04-25 10:22:37 - Started MovieCatalogeServiceApplication in 6.998 seconds (JVM running for 8.04)
+""2021-04-25 10:26:09 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+""2021-04-25 10:26:09 - Initializing Servlet 'dispatcherServlet'
+""2021-04-25 10:26:09 - Completed initialization in 3 ms
+""2021-04-25 10:53:53 - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m9s372ms937µs900ns).
+"
